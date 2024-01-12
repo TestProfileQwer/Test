@@ -1,1 +1,5 @@
 # HELLO, WORLD!
+
+Netology
+
+14.08.2022
